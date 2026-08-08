@@ -9,12 +9,12 @@ export const educations = [
     id: 2,
     title: "Intermediate - MPC",
     duration: "2020 - 2022",
-    institution: "SR Junior College, Dubbak",
+    institution: "Sri Raghavendra Junior College, Dubbak",
   },
   {
     id: 3,
     title: "High School - SSC",
     duration: "2019 - 2020",
-    institution: "Telangana Model School, Dubbak",
+    institution: "Govt. Telangana State Model School, Dubbak",
   }
 ]
